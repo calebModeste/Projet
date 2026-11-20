@@ -5,6 +5,15 @@ Classer automatiquement un article de presse dans l'une des 4 rubriques suivante
 - Dataset : [AG News](https://huggingface.co/datasets/fancyzhx/ag_news), 127 600 articles (120 000 train / 7 600 test)
 - Modèle retenu : TF-IDF (mots + bigrammes) + SVM linéaire calibré, **92,2 % d'accuracy** sur le test
 
+🔗 **Application en ligne : [https://projet-seven-gamma.vercel.app](https://projet-seven-gamma.vercel.app)**
+
+## Groupe de travail
+
+| Nom | E-mail | GitHub |
+|---|---|---|
+| Caleb Nathanael TSIBA MODESTE | <c.tsiba@ecole-ipssi.net> | [@calebModeste](https://github.com/calebModeste) |
+| James MBA FONGANG | <j.mbafongang@ecole-ipssi.net> | [@MFJD](https://github.com/MFJD) |
+
 ## Contenu du dossier
 
 ```
