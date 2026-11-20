@@ -1,0 +1,12 @@
+# environnement du notebook (Python 3.11)
+numpy==1.26.4
+pandas
+pyarrow<18
+scikit-learn==1.9.1
+torch==2.2.2
+matplotlib
+seaborn
+huggingface_hub
+joblib
+jupyter
+ipykernel
